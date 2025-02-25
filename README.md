@@ -8,8 +8,4 @@ This repository contains Python scripts demonstrating file handling operations:
 - `sample.txt` : A sample text file used in `file.py`.
 - `output.txt` : Stores user input from `Append.py`.
 
-## Usage
-Run the scripts using Python:
-```sh
-python file.py
-python Append.py
+
